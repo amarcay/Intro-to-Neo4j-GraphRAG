@@ -5,6 +5,10 @@ Ce projet est un assistant intelligent (Chatbot) capable de répondre à des que
 > [!NOTE]
 > **Contexte du projet** : Ce projet a été réalisé dans le cadre d'un cours sur **Neo4j**. Si l'objectif académique était de découvrir cette base de données, j'ai personnellement profité de cette opportunité pour aller plus loin et explorer les concepts du **Graph RAG** (Retrieval-Augmented Generation sur des graphes).
 
+## 🎥 Démonstration
+
+![Démonstration](example/example.mov)
+
 ## 🚀 Fonctionnalités
 
 -   **Interface de Chat** : Une interface conviviale construite avec Streamlit.
